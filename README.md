@@ -2,7 +2,11 @@
 
 <!--
 **Vannndeth/Vannndeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href=#><img src="contributions.svg"></a>
+<p align="center"> 
+  Visitor count<br>
 
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
