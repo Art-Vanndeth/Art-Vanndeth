@@ -167,8 +167,6 @@ I have graduated with a Bachelor's degree in Computer Science from the Royal Uni
 
 [//]: # (![snake gif]&#40;https://github.com/Art-Vanndeth/Art-Vandeth/blob/output/github-contribution-grid-snake.svg&#41;)
 
-<img src="https://github.com/Art-Vanndeth/Art-Vandeth/blob/main/line-neon.gif" width="100%">
-
 <!--
 **Vannndeth/Vannndeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href=#><img src="contributions.svg"></a>
@@ -219,4 +217,4 @@ Here are some ideas to get you started:
 
 </div>
 
-
+<img src="https://github.com/Art-Vanndeth/Art-Vandeth/blob/main/line-neon.gif" width="100%">
