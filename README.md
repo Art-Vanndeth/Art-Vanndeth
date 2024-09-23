@@ -1,7 +1,7 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<img src="https://github.com/Art-Vanndeth/Art-Vandeth/blob/main/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/>
+<img src="https://github.com/Art-Vanndeth/Art-Vanndeth/blob/main/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=3000&color=2563EB&vCenter=true&random=false&width=500&height=45&lines=Hey+There++%F0%9F%91%8B%F0%9F%8F%BB;My+name+is+Art+Vanndeth+%F0%9F%92%99" alt="Typing SVG" />
-<img src="https://github.com/Art-Vanndeth/Art-Vandeth/blob/main/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/>
+<img src="https://github.com/Art-Vanndeth/Art-Vanndeth/blob/main/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/>
 
 I have graduated with a Bachelor's degree in Computer Science from the Royal University of Phnom Penh (RUPP) and completed the Fundamental and IT Expert in Spring Microservices scholarship at iSTAD. I am continuously researching new technologies and learning every day to stay updated and improve my skills.
 
@@ -11,7 +11,7 @@ I have graduated with a Bachelor's degree in Computer Science from the Royal Uni
 - 🤝  I'm open to collaborating on any opportunities to learn new things
 - ⚡  I enjoy video games and researching new technology
 
-<img src="https://github.com/Art-Vanndeth/Art-Vandeth/blob/main/2nd%20arrow.gif?raw=true" alt="Animated footer bars" width="100%"/>
+<img src="https://github.com/Art-Vanndeth/Art-Vanndeth/blob/main/2nd%20arrow.gif?raw=true" alt="Animated footer bars" width="100%"/>
 <img src="https://github-widgetbox.vercel.app/api/profile?username=Art-Vanndeth&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="100%" height="0%">
 
 ### Visitor Count:
@@ -163,9 +163,10 @@ I have graduated with a Bachelor's degree in Computer Science from the Royal Uni
  </tr>
 </table>
 <br><br>
+</div>
 </table>
 
-[//]: # (![snake gif]&#40;https://github.com/Art-Vanndeth/Art-Vandeth/blob/output/github-contribution-grid-snake.svg&#41;)
+[//]: # (![snake gif]&#40;https://github.com/Art-Vanndeth/Art-Vanndeth/blob/output/github-contribution-grid-snake.svg&#41;)
 
 <!--
 **Vannndeth/Vannndeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -205,7 +206,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img height="50" alt="Thanks for visiting me" width="100%" src="https://github.com/Art-Vanndeth/Art-Vandeth/blob/main/thankyou%20RJ.svg" />
+<img height="50" alt="Thanks for visiting me" width="100%" src="https://github.com/Art-Vanndeth/Art-Vanndeth/blob/main/thankyou%20RJ.svg" />
 <br />
 
 <div align="center">
@@ -216,6 +217,8 @@ Here are some ideas to get you started:
 ###### ©2024 [Art-Vanndeth](https://github.com/Art-Vanndeth), Inc. All rights reserved
 
 </div>
+</div>
+<img src="https://github.com/Art-Vanndeth/Art-Vanndeth/blob/main/line-neon.gif" width="100%" alt="neon">
 
 
-<img src="https://github.com/Art-Vanndeth/Art-Vandeth/blob/main/line-neon.gif" width="100%">
+fix it
