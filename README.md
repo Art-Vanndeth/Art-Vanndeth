@@ -166,11 +166,11 @@ I have graduated with a Bachelor's degree in Computer Science from the Royal Uni
 </div>
 </table>
 
-[//]: # (![snake gif]&#40;https://github.com/Art-Vanndeth/Art-Vanndeth/blob/output/github-contribution-grid-snake.svg&#41;)
 
 <!--
 **Vannndeth/Vannndeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href=#><img src="contributions.svg"></a>
+<a href=#><img src="q.svg"></a>
 <p align="center"> 
   Visitor count<br>
 
@@ -186,7 +186,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href=#><img src="github-user-contribution (1).svg"></a>
+<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="q.svg"></a>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Art-Vanndeth&theme=tokyo-night&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="100%" alt="activity graph">
 <img src="https://github-profile-trophy.vercel.app/?username=Art-Vanndeth&column=-1&theme=tokyonight&layout=compact" width="100%"/>
