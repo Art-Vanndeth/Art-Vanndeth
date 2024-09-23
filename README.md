@@ -220,6 +220,3 @@ Here are some ideas to get you started:
 </div>
 </div>
 <img src="https://github.com/Art-Vanndeth/Art-Vanndeth/blob/main/line-neon.gif" width="100%" alt="neon">
-
-
-fix it
